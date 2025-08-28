@@ -1,0 +1,147 @@
+/* RESET BÁSICO PARA CONSISTÊNCIA */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ESTILO GERAL */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000; /* fundo preto */
+    color: #fff; /* texto branco */
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #fff;
+    font-weight: 700;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #a64dff; /* roxo claro */
+}
+
+/* HEADER */
+header {
+    background-color: #111;
+    border-bottom: 3px solid #a64dff; /* detalhe roxo */
+    padding: 15px 0;
+}
+
+header .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-img {
+    height: 60px;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* MENU DE NAVEGAÇÃO */
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+nav ul li a {
+    font-weight: 500;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    border-color: #a64dff;
+    color: #a64dff;
+}
+
+.logo-img {
+    height: 60px;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.botoes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
+    gap: 20px;
+    padding: 20px;
+}
+
+.botao-imagem {
+    text-align: center; /* centraliza título e imagem */
+}
+
+.botao-imagem img {
+    width: 100%; /* ocupa a largura da coluna do grid */
+    height: 150px;
+    object-fit: cover;
+    border: 2px solid #b300ff;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.botao-imagem img:hover {
+    transform: scale(1.05);
+}
+
+.botao-imagem p {
+    margin-top: 8px;
+    color: #b300ff;
+    font-weight: bold;
+}
+
+.partidas ul {
+  max-height: 200px; /* altura suficiente para caber 5 itens (ajuste se necessário) */
+  overflow-y: auto;  /* ativa a barra de rolagem vertical */
+  padding: 0;
+  margin: 0;
+  list-style: none; /* opcional, remove as bolinhas */
+}
+
+.partidas ul li {
+  padding: 8px 12px;
+  border-bottom: 1px solid #333;
+  height: 32px; /* altura fixa */
+}
+
+@media (max-width: 768px) {
+    header .container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    footer .container {
+        flex-direction: column;
+        gap: 10px;
+    }
+    }

@@ -1,0 +1,153 @@
+<?php include('includes/header.php'); ?>
+
+<section id="jogos" class="time">
+    <h2>ULTIMOS JOGOS</h2>
+    <div class="membros">
+        <?php
+        $membros = [
+            ['nome' => 'Rocket League Torneio Diamante', 'cargo' => 'TLH WO', 'img' => 'secaotimes/img/Rocket League.png'],
+            ['nome' => 'Ralisco Showdown', 'cargo' => 'TLH 37º', 'img' => 'secaotimes/img/ArenaBreakout.png'],
+        ];
+        foreach($membros as $membro): ?>
+            <div class="card">
+                <img src="<?= $membro['img'] ?>">
+                <p><?= $membro['nome'] ?></p>
+                <p><?= $membro['cargo'] ?></p>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</section>
+
+<section id="galeria">
+    <h2>GALERIA DO TIME</h2>
+    <div class="galeria-container">
+        <div class="foto">
+            <img src="imgalery/i1.png" alt="Foto 1">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i2.png" alt="Foto 2">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i3.png" alt="Foto 3">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i4.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i5.jpg" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i6.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i7.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i8.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i9.jpg" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i10.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i11.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i12.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i13.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i14.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i15.png" alt="Foto 4">
+        </div>
+        <div class="foto">
+            <img src="imgalery/i16.png" alt="Foto 4">
+        </div>
+        <!-- Pode adicionar quantas fotos quiser -->
+    </div>
+</section>
+
+<div id="lightbox">
+    <span class="fechar">&times;</span>
+    <img id="lightbox-img">
+</div>
+
+<section id="time" class="time">
+    <h2>MEMBROS DO TIME</h2>
+    <div class="membros">
+        <?php
+        $membros = [
+            ['nome' => 'PokasZideia', 'cargo' => 'Rocket League | Counter Strike 2', 'img' => 'secaotimes/img/pokas2.png'],
+            ['nome' => 'L1GHTZ', 'cargo' => 'Rocket League | Counter Strike 2 | Arena Breakout', 'img' => 'secaotimes/img/lightz2.jpg'],
+            ['nome' => 'KAMKE', 'cargo' => 'Rocket League | Counter Strike 2', 'img' => 'secaotimes/img/kamke2.png'],
+            ['nome' => 'Fusion', 'cargo' => 'Counter Strike 2 | Arena Breakout', 'img' => 'secaotimes/img/fusion2.jpg'],
+            ['nome' => 'VT', 'cargo' => 'Counter Strike 2 | Arena Breakout', 'img' => 'secaotimes/img/vt.png'],
+            ['nome' => 'Aleke', 'cargo' => 'Rocket League', 'img' => 'secaotimes/img/aleke.jpg']
+        ];
+        foreach($membros as $membro): ?>
+            <div class="card">
+                <img src="<?= $membro['img'] ?>" alt="<?= $membro['nome'] ?>">
+                <h3><?= $membro['nome'] ?></h3>
+                <p><?= $membro['cargo'] ?></p>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</section>
+
+<section id="futuros" class="projetos">
+    <h2>Planos Futuros</h2>
+    <p>The Last Hope Esports espera se tornar uma grande equipe de nivel mundial.</p>
+</section>
+
+<section id="sobre" class="sobre">
+    <h2>The Last Hope Esports</h2>
+    <p>Equipe profissional de esportes eletronicos, atuando principalmente no jogo Rocket League.</p>
+</section>
+
+<section id="junte" class="cta">
+    <h2>Quer fazer parte do nosso time?</h2>
+    <a class="btn" href="#contato">Candidate-se</a>
+</section>
+
+<script>
+    // Seleciona todos as imagens da galeria
+    const imagens = document.querySelectorAll('.galeria-container img');
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const fechar = document.querySelector('#lightbox .fechar');
+
+    // Ao clicar numa imagem, abre no lightbox
+    imagens.forEach(img => {
+        img.addEventListener('click', () => {
+            lightbox.style.display = 'flex';
+            lightboxImg.src = img.src;
+        });
+    });
+
+    // Ao clicar no X, fecha
+    fechar.addEventListener('click', () => {
+        lightbox.style.display = 'none';
+    });
+
+    // Fecha também clicando fora da imagem
+    lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {
+            lightbox.style.display = 'none';
+        }
+    });
+
+    // Fecha com tecla ESC
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            lightbox.style.display = 'none';
+        }
+    });
+</script>
+
+<?php include('includes/footer.php'); ?>
