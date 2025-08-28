@@ -29,7 +29,7 @@
             
             <h3>Times Anteriores</h3>
             <ul class="lista-times">
-                <li>The Last Hope Esports (2025 - Atual)</li>
+                <li>The Last Hope Esports (2024 - Atual)</li>
             </ul>
             
             <h1>Estatísticas</h1>

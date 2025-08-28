@@ -7,7 +7,7 @@
 </head>
 <header>
     <div class="container">
-        <img src="img/LOGO TLH 1.png" alt="Logo TLH" class="logo-img">
+        <img src="../img/LOGO TLH 2.png" alt="Logo TLH" class="logo-img">
         <h1 class="logo">TLH JOGADORES</h1>
         <nav>
             <ul>
@@ -16,7 +16,7 @@
                 <li><a href="../secaojogadores/jogadores.php" class="active">JOGADORES</a></li>
                 <li><a href="../secaofuturosplanos/futurosplanos.php">FUTUROS PLANOS</a></li>
                 <li><a href="#junte">SEJA TLH</a></li>
-                <li><a href="#sobre">SOBRE NÓS</a></li>
+                <li><a href="../secaosobre/sobre.php">SOBRE NÓS</a></li>
             </ul>
         </nav>
     </div>

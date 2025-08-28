@@ -12,7 +12,7 @@
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Reinaldo Camillo</li>
-                <li><strong>Altura:</strong> 1,65m</li>
+                <li><strong>Altura:</strong> 1,67m</li>
                 <li><strong>Idade:</strong> 18 anos</li>
                 <li><strong>Origem:</strong> Brasil, Santa Catarina</li>
             </ul>

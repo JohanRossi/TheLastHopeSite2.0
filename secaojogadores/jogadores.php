@@ -1,5 +1,5 @@
 <?php include './includes/header.php'; ?>
-<link rel="stylesheet" href="./cssj/style.css">
+<link rel="stylesheet" href="./cssj/estilojogadores.css">
 
 <section>
     <h1>Jogadores</h1>

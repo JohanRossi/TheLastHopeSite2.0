@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>THE LAST HOPE ESPORTS</title>
-    <link rel="stylesheet" href="../cssfp/estiloplanos.css">
+    <link rel="stylesheet" href="../cssobre/estilosobre.css">
 </head>
 <header>
     <div class="container">
@@ -14,7 +14,7 @@
                 <li><a href="../main.php">HOME</a></li>
                 <li><a href="../secaotimes/times.php">TIMES</a></li>
                 <li><a href="../secaojogadores/jogadores.php" class="active">JOGADORES</a></li>
-                <li><a href="#futuros">FUTUROS PLANOS</a></li>
+                <li><a href="../secaofuturosplanos/futurosplanos.php">FUTUROS PLANOS</a></li>
                 <li><a href="#junte">SEJA TLH</a></li>
                 <li><a href="../secaosobre/sobre.php">SOBRE NÓS</a></li>
             </ul>
