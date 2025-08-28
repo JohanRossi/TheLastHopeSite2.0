@@ -16,7 +16,7 @@
                 <li><a href="../main.php">HOME</a></li>
                 <li><a href="times.php">TIMES</a></li>
                 <li><a href="../secaojogadores/jogadores.php">JOGADORES</a></li>
-                <li><a href="#futuros">FUTUROS PLANOS</a></li>
+                <li><a href="../secaofuturosplanos/futurosplanos.php">FUTUROS PLANOS</a></li>
                 <li><a href="#junte">SEJA TLH</a></li>
                 <li><a href="#sobre">SOBRE NÓS</a></li>
             </ul>

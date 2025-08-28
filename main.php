@@ -79,16 +79,17 @@
 </div>
 
 <section id="time" class="time">
-    <h2>MEMBROS DO TIME</h2>
+    <h2>MEMBROS</h2>
     <div class="membros">
         <?php
         $membros = [
-            ['nome' => 'PokasZideia', 'cargo' => 'Rocket League | Counter Strike 2', 'img' => 'secaotimes/img/pokas2.png'],
-            ['nome' => 'L1GHTZ', 'cargo' => 'Rocket League | Counter Strike 2 | Arena Breakout', 'img' => 'secaotimes/img/lightz2.jpg'],
-            ['nome' => 'KAMKE', 'cargo' => 'Rocket League | Counter Strike 2', 'img' => 'secaotimes/img/kamke2.png'],
-            ['nome' => 'Fusion', 'cargo' => 'Counter Strike 2 | Arena Breakout', 'img' => 'secaotimes/img/fusion2.jpg'],
-            ['nome' => 'VT', 'cargo' => 'Counter Strike 2 | Arena Breakout', 'img' => 'secaotimes/img/vt.png'],
-            ['nome' => 'Aleke', 'cargo' => 'Rocket League', 'img' => 'secaotimes/img/aleke.jpg']
+            ['nome' => 'PokasZideia', 'cargo' => 'Jogador Pro | CEO', 'img' => 'secaotimes/img/pokas2.png'],
+            ['nome' => 'L1GHTZ', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/lightz2.jpg'],
+            ['nome' => 'KAMKE', 'cargo' => 'Assistente Tecnico', 'img' => 'secaotimes/img/kamke2.png'],
+            ['nome' => 'Fusion', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/fusion2.jpg'],
+            ['nome' => 'VT', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/vt.png'],
+            ['nome' => 'Aleke', 'cargo' => 'Jogador Pro | Influencer | CEO', 'img' => 'secaotimes/img/aleke.jpg'],
+            ['nome' => 'Beca', 'cargo' => 'Influencer', 'img' => 'secaotimes/img/Beca.jpg'],
         ];
         foreach($membros as $membro): ?>
             <div class="card">
