@@ -8,22 +8,22 @@
         <div class="info-jogador">
             <h2>Fusion</h2>
             <p class="descricao">
-                Um jovem dedicado e focado, jogador profissional de Counter-Strike 2 e Arena Breakout, conhecido por sua disciplina, reflexos rápidos e paixão pelo cenário competitivo.
+                Fusion "Willian Mendez" um dos maiores e melhores jogadores da The Last Hope, atuando em Counter Strike 2 e Arena Breakout, demonstra desempenho e entrega em seus jogos. Fusion tambem é influencer na plataforma do Youtube postando conteudo de gameplays de jogos.
             </p>
             <ul class="detalhes">
-                <li><strong>Nome: </strong>Fusion</li>
-                <li><strong>Altura:</strong> 1,50m</li>
+                <li><strong>Nome: </strong>Willian Mendez</li>
+                <li><strong>Altura:</strong> 1,70m</li>
                 <li><strong>Idade:</strong> 19 anos</li>
                 <li><strong>Origem:</strong> Brasil, Rio Grande do Sul</li>
             </ul>
             
-            <h3>Jogos Jogados</h3>
+            <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
                 <li>Counter Strike 2</li>
                 <li>Arena Breakout</li>
             </ul>
             
-            <h3>Times Anteriores</h3>
+            <h3>Times Atuados</h3>
             <ul class="lista-times">
                 <li>The Last Hope Esports (2020 - Atual)</li>
                 <li>Moon Knights (2020 - 2023)</li>

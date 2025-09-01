@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Kamke</h2>
             <p class="descricao">
-                Um jovem carismático e sorridente, jogador de Rocket League e Counter-Strike 2, sempre com energia positiva e paixão pelos games, unindo habilidade e diversão em cada partida.
+                Kamke "Reinaldo Camilo" foi o primeiro membro a ingressar no time ainda em 2021. É um dos membros mais queridos dentro do time, com passagens pelo Counter Strike: Global Offensive e Rocket League. Atualmente atua apenas na comissão tecnica de Counter Strike 2 como coach e Influencer sendo Streamer e Youtuber do time, com conteudos divertidos e bem editados de gameplays.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Reinaldo Camillo</li>
@@ -19,7 +19,7 @@
             
             <h3>Ex-Jogador</h3>
             <ul class="lista-jogos">
-                <li>Counter Strike 2</li>
+                <li>Counter Strike: Global Offensive</li>
                 <li>Rocket League</li>
             </ul>
 
@@ -28,13 +28,13 @@
                 <li>Counter Strike 2 | Coach</li>
             </ul>
 <!-- 
-            <h3>Jogador</h3>
+            <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
                 <li>Counter Strike 2</li>
                 <li>Rocket League</li>
             </ul>
 -->
-            <h3>Times Anteriores</h3>
+            <h3>Times Atuados</h3>
             <ul class="lista-times">
                 <li>The Last Hope Esports (2020 - Atual)</li>
                 <li>Moon Knights (2020 - 2023)</li>

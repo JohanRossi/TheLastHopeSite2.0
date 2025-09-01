@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>THE LAST HOPE ESPORTS</title>
-    <link rel="stylesheet" href="../cssj/style.css">
+    <link rel="stylesheet" href="../cssj/astilojogadores.css">
 </head>
 <header>
     <div class="container">

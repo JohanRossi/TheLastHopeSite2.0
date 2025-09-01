@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="./cssj/estilojogadores.css">
 
 <section>
-    <h1>Jogadores</h1>
+    <h1>JOGADORES</h1>
     <div class="jogadores-container">
         <div class="jogador-card">
             <a href="jogadores/pokas.php">
@@ -39,24 +39,58 @@
                 <p>Rocket League | Counter Strike 2 | Arena Breakout</p>
             </a>
         </div>
-    </div>
-</section>
-
-<section>
-    <h1>Ex-Jogadores</h1>
-    <div class="jogadores-container">
         <div class="jogador-card">
             <a href="jogadores/beca.php">
                 <img src="img/beca.jpg" alt="Beca">
                 <h3>Beca</h3>
-                <p>Influencer</p>
+                <p>Rainbow Six Siege</p>
             </a>
         </div>
+    </div>
+</section>
+
+<section>
+    <h1>INFLUENCIADORES</h1>
+    <div class="jogadores-container">
         <div class="jogador-card">
             <a href="jogadores/kamke.php">
                 <img src="img/kamke2.png" alt="SniperPro">
                 <h3>Kamke</h3>
                 <p>Influencer</p>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="jogadores/vt.php">
+                <img src="img/vt.png" alt="SniperPro">
+                <h3>VT</h3>
+                <p>Influencer</p>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="jogadores/pokas.php">
+                <img src="img/pokas.jpg" alt="Pokas">
+                <h3>Pokas</h3>
+                <p>Influencer</p>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="jogadores/fusion.php">
+                <img src="img/fusion.png" alt="SniperPro">
+                <h3>Fusion</h3>
+                <p>Influencer</p>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h1>COMISSÃO TECNICA</h1>
+    <div class="jogadores-container">
+        <div class="jogador-card">
+            <a href="jogadores/kamke.php">
+                <img src="img/kamke2.png" alt="SniperPro">
+                <h3>Kamke</h3>
+                <p>Assistente Técnico</p>
             </a>
         </div>
     </div>

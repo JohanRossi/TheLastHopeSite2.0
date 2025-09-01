@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Aleke</h2>
             <p class="descricao">
-                Esse rapaz tem um estilo descontraído e carismático, usando um headset gamer que transmite bem a ideia de foco e imersão no jogo. Como jogador profissional de Rocket League, ele passa a imagem de alguém competitivo, mas ao mesmo tempo acessível e simpático, mantendo sempre uma boa energia em frente às câmeras. Sua expressão transmite confiança e leveza, algo essencial para se destacar tanto no ambiente competitivo quanto no contato com a comunidade de fãs e seguidores.
+                Aleke "Alex Gomes" é um dos fundadores da equipe The Last Hope Esports ao lado de Kizz "Kauan Moraes" e Pokas "Johan Rossi". É também jogador profissional de Rocket League.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Alex Gomes</li>
@@ -17,12 +17,12 @@
                 <li><strong>Origem:</strong> Brasil, São Paulo</li>
             </ul>
             
-            <h3>Jogos Jogados</h3>
+            <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
                 <li>Rocket League</li>
             </ul>
             
-            <h3>Times Anteriores</h3>
+            <h3>Times Atuados</h3>
             <ul class="lista-times">
                 <li>The Last Hope Esports (2020 - Atual)</li>
             </ul>

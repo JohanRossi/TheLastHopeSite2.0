@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>VT</h2>
             <p class="descricao">
-                Um jogador descontraído e cheio de energia, que se destaca no Arena Breakout e no Counter-Strike 2, sempre trazendo bom humor e intensidade para as partidas.
+                Vt "Vitor Hugo" atualmente empatado com Lightz "Eduardo Fudido", é o proplayer mais habilidoso representando o time, com excelencia em Counter Strike 2 e Arena Breakout. É dificl dizer qual esta melhor atualmente entre Lightz e Vt. Vt tambem é Influencer fazendo streams na Twitch.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Vitor Hugo</li>
@@ -17,13 +17,13 @@
                 <li><strong>Origem:</strong> Brasil, Rio de Janeiro</li>
             </ul>
             
-            <h3>Jogos Jogados</h3>
+            <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
                 <li>Arena Breakout</li>
                 <li>Counter Strike 2</li>
             </ul>
             
-            <h3>Times Anteriores</h3>
+            <h3>Times Atuados</h3>
             <ul class="lista-times">
                 <li>The Last Hope Esports (2020 - Atual)</li>
                 <li>Moon Knights (2020 - 2023)</li>

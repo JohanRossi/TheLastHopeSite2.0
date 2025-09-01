@@ -83,23 +83,25 @@
     <div class="membros">
         <?php
         $membros = [
-            ['nome' => 'PokasZideia', 'cargo' => 'Jogador Pro | CEO', 'img' => 'secaotimes/img/pokas2.png'],
-            ['nome' => 'L1GHTZ', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/lightz2.jpg'],
-            ['nome' => 'KAMKE', 'cargo' => 'Assistente Tecnico', 'img' => 'secaotimes/img/kamke2.png'],
-            ['nome' => 'Fusion', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/fusion2.jpg'],
-            ['nome' => 'VT', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/vt.png'],
-            ['nome' => 'Aleke', 'cargo' => 'Jogador Pro | Influencer | CEO', 'img' => 'secaotimes/img/aleke.jpg'],
-            ['nome' => 'Beca', 'cargo' => 'Influencer', 'img' => 'secaotimes/img/Beca.jpg'],
+            ['nome' => 'PokasZideia', 'cargo' => 'Influencer | Jogador Pro | CEO', 'img' => 'secaotimes/img/pokas2.png', 'link' => 'secaojogadores/jogadores/pokas.php'],
+            ['nome' => 'L1GHTZ', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/lightz2.jpg', 'link' => 'secaojogadores/jogadores/l1ghtz.php'],
+            ['nome' => 'KAMKE', 'cargo' => 'Influencer | Assistente Tecnico', 'img' => 'secaotimes/img/kamke2.png', 'link' => 'secaojogadores/jogadores/kamke.php'],
+            ['nome' => 'Fusion', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/fusion2.jpg', 'link' => 'secaojogadores/jogadores/fusion.php'],
+            ['nome' => 'VT', 'cargo' => 'Influencer | Jogador Pro', 'img' => 'secaotimes/img/vt.png', 'link' => 'secaojogadores/jogadores/vt.php'],
+            ['nome' => 'Aleke', 'cargo' => 'Jogador Pro | Influencer | CEO', 'img' => 'secaotimes/img/aleke.jpg', 'link' => 'secaojogadores/jogadores/aleke.php'],
+            ['nome' => 'Beca', 'cargo' => 'Influencer', 'img' => 'secaotimes/img/Beca.jpg', 'link' => 'secaojogadores/jogadores/beca.php'],
         ];
+
         foreach($membros as $membro): ?>
-            <div class="card">
+            <a href="<?= $membro['link'] ?>" class="card">
                 <img src="<?= $membro['img'] ?>" alt="<?= $membro['nome'] ?>">
                 <h3><?= $membro['nome'] ?></h3>
                 <p><?= $membro['cargo'] ?></p>
-            </div>
+            </a>
         <?php endforeach; ?>
     </div>
 </section>
+
 
 <section id="futuros" class="projetos">
     <h2>Planos Futuros</h2>

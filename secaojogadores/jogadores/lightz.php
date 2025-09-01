@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Lightz</h2>
             <p class="descricao">
-                Um jogador irreverente e cheio de personalidade, que se destaca no Rocket League, Counter-Strike 2 e Arena Breakout, sempre trazendo estilo único e autenticidade para o mundo dos games.
+                Lightz "Eduardo Fudido" atualmente empatado com Vt "Vitor Hugo", é o proplayer mais habilidoso representando o time, com excelencia em Counter Strike 2, Rocket League e Arena Breakout. É dificil dizer qual esta melhor atualmente entre Vt e Lightz.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Eduardo Fudido</li>
@@ -17,14 +17,14 @@
                 <li><strong>Origem:</strong> Brasil, Rio Grande do Sul</li>
             </ul>
             
-            <h3>Jogos Jogados</h3>
+            <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
                 <li>Rocket League</li>
                 <li>Counter Strike 2</li>
                 <li>Arena Breakout</li>
             </ul>
             
-            <h3>Times Anteriores</h3>
+            <h3>Times Atuados</h3>
             <ul class="lista-times">
                 <li>The Last Hope Esports (2020 - Atual)</li>
                 <li>Moon Knights (2020 - 2023)</li>
