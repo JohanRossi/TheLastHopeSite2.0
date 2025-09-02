@@ -84,12 +84,12 @@
         <?php
         $membros = [
             ['nome' => 'PokasZideia', 'cargo' => 'Influencer | Jogador Pro | CEO', 'img' => 'secaotimes/img/pokas2.png', 'link' => 'secaojogadores/jogadores/pokas.php'],
-            ['nome' => 'L1GHTZ', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/lightz2.jpg', 'link' => 'secaojogadores/jogadores/l1ghtz.php'],
+            ['nome' => 'L1GHTZ', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/lightz2.jpg', 'link' => 'secaojogadores/jogadores/lightz.php'],
             ['nome' => 'KAMKE', 'cargo' => 'Influencer | Assistente Tecnico', 'img' => 'secaotimes/img/kamke2.png', 'link' => 'secaojogadores/jogadores/kamke.php'],
             ['nome' => 'Fusion', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/fusion2.jpg', 'link' => 'secaojogadores/jogadores/fusion.php'],
             ['nome' => 'VT', 'cargo' => 'Influencer | Jogador Pro', 'img' => 'secaotimes/img/vt.png', 'link' => 'secaojogadores/jogadores/vt.php'],
             ['nome' => 'Aleke', 'cargo' => 'Jogador Pro | Influencer | CEO', 'img' => 'secaotimes/img/aleke.jpg', 'link' => 'secaojogadores/jogadores/aleke.php'],
-            ['nome' => 'Beca', 'cargo' => 'Influencer', 'img' => 'secaotimes/img/Beca.jpg', 'link' => 'secaojogadores/jogadores/beca.php'],
+            ['nome' => 'Beca', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/Beca.jpg', 'link' => 'secaojogadores/jogadores/beca.php'],
         ];
 
         foreach($membros as $membro): ?>

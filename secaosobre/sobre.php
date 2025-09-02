@@ -12,7 +12,6 @@
   <!-- Imagem destacada -->
   <section class="imagem-destaque">
     <img src="../imgalery/i6.png" alt="Equipe reunida">
-    <img src="../imgalery/i10.png" alt="Equipe reunida">
   </section>
 
   <!-- Vídeo institucional -->

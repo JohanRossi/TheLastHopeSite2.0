@@ -11,7 +11,7 @@
                 Kamke "Reinaldo Camilo" foi o primeiro membro a ingressar no time ainda em 2021. É um dos membros mais queridos dentro do time, com passagens pelo Counter Strike: Global Offensive e Rocket League. Atualmente atua apenas na comissão tecnica de Counter Strike 2 como coach e Influencer sendo Streamer e Youtuber do time, com conteudos divertidos e bem editados de gameplays.
             </p>
             <ul class="detalhes">
-                <li><strong>Nome: </strong>Reinaldo Camillo</li>
+                <li><strong>Nome: </strong>Reinaldo Kamke</li>
                 <li><strong>Altura:</strong> 1,67m</li>
                 <li><strong>Idade:</strong> 18 anos</li>
                 <li><strong>Origem:</strong> Brasil, Santa Catarina</li>
