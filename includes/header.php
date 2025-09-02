@@ -12,7 +12,7 @@
         <h1 class="logo">THE LAST HOPE ESPORTS</h1>
         <nav>
             <ul>
-                <li><a href="main.php">HOME</a></li>
+                <li><a href="main.php" class="active">HOME</a></li>
                 <li><a href="secaotimes/times.php">TIMES</a></li>
                 <li><a href="secaojogadores/jogadores.php">MEMBROS</a></li>
                 <li><a href="secaofuturosplanos/futurosplanos.php">FUTUROS PLANOS</a></li>

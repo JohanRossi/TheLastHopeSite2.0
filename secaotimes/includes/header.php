@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>THE LAST HOPE ESPORTS</title>
+    <title>TIMES</title>
     <link rel="stylesheet" href="csst/estilo.css">
     <link rel="stylesheet" href="../csst/estilotime.css">
 </head>
@@ -14,7 +14,7 @@
         <nav>
             <ul>
                 <li><a href="../main.php">HOME</a></li>
-                <li><a href="times.php">TIMES</a></li>
+                <li><a href="times.php" class="active">TIMES</a></li>
                 <li><a href="../secaojogadores/jogadores.php">JOGADORES</a></li>
                 <li><a href="../secaofuturosplanos/futurosplanos.php">FUTUROS PLANOS</a></li>
                 <li><a href="#junte">SEJA TLH</a></li>

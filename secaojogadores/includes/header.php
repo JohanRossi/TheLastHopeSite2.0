@@ -8,7 +8,7 @@
 <header>
     <div class="container">
         <img src="../img/LOGO TLH 2.png" alt="Logo TLH" class="logo-img">
-        <h1 class="logo">TLH JOGADORES</h1>
+        <h1 class="logo">THE LAST HOPE ESPORTS</h1>
         <nav>
             <ul>
                 <li><a href="../main.php">HOME</a></li>

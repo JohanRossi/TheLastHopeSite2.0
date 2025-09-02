@@ -3,7 +3,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Time - The Last Hope Esports</title>
+    <title>ROCKET LEAGUE</title>
     <link rel="stylesheet" href="time.css">
 </head>
 <body>

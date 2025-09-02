@@ -12,6 +12,22 @@ body {
     padding: 20px;
 }
 
+h1, h2, h3 {
+    color: #fff;
+    font-weight: 700;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #a64dff; /* roxo claro */
+}
+
+/* HEADER */
 header {
     background-color: #111;
     border-bottom: 3px solid #a64dff; /* detalhe roxo */
@@ -55,16 +71,6 @@ nav ul li a:hover,
 nav ul li a.active {
     border-color: #a64dff;
     color: #a64dff;
-}
-
-.logo-img {
-    height: 60px;
-}
-
-.logo {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: #fff;
 }
 
 /* Títulos */
