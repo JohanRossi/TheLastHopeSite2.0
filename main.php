@@ -5,15 +5,17 @@
     <div class="membros">
         <?php
         $membros = [
-            ['nome' => 'Rocket League Torneio Diamante', 'cargo' => 'TLH WO', 'img' => 'secaotimes/img/Rocket League.png'],
-            ['nome' => 'Ralisco Showdown', 'cargo' => 'TLH 37º', 'img' => 'secaotimes/img/ArenaBreakout.png'],
+            ['nome' => 'Rocket League Torneio Diamante', 'cargo' => 'TLH WO', 'img' => 'secaotimes/img/Rocket League.png', 'link' => 'secaojogadores/jogadores/beca.php'],
+            ['nome' => 'Ralisco Showdown', 'cargo' => 'TLH 37º', 'img' => 'secaotimes/img/ArenaBreakout.png', 'link' => 'secaojogadores/jogadores/beca.php'],
         ];
         foreach($membros as $membro): ?>
+        <a href="<?= $membro['link'] ?>" class="card">
             <div class="card">
-                <img src="<?= $membro['img'] ?>">
-                <p><?= $membro['nome'] ?></p>
-                <p><?= $membro['cargo'] ?></p>
+                    <img src="<?= $membro['img'] ?>">
+                    <p><?= $membro['nome'] ?></p>
+                    <p><?= $membro['cargo'] ?></p>
             </div>
+        </a>
         <?php endforeach; ?>
     </div>
 </section>
