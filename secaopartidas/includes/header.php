@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>THE LAST HOPE ESPORTS</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="csspartidas/cssp.css">
 </head>
 <body>
 <header>

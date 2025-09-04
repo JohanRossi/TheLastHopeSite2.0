@@ -1,0 +1,191 @@
+/* RESET BÁSICO */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ESTILO GLOBAL */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000; /* fundo preto */
+    color: #fff; /* texto branco */
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #fff;
+    font-weight: 700;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #a64dff; /* roxo claro */
+}
+
+/* HEADER */
+header {
+    background-color: #111;
+    border-bottom: 3px solid #a64dff; /* detalhe roxo */
+    padding: 15px 0;
+}
+
+header .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-img {
+    height: 60px;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* MENU DE NAVEGAÇÃO */
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+nav ul li a {
+    font-weight: 500;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    border-color: #a64dff;
+    color: #a64dff;
+}
+
+/* Estrutura */
+.competicoes {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.competicoes h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #6d6d6d;
+}
+
+/* Intro */
+.intro {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.intro h1 {
+  font-size: 2.4rem;
+  color: #a64dff;
+  margin-bottom: 15px;
+}
+
+.intro p {
+  font-size: 1.2rem;
+  color: #ddd;
+}
+
+/* Grid de cards */
+.grid-competicoes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 25px;
+}
+
+/* Card */
+.card {
+  background: #111;
+  border-radius: 14px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #fff;
+  box-shadow: 0 0 18px rgba(128, 0, 255, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card h2 {
+  font-size: 1.2rem;
+  text-align: left;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.card h3 {
+  font-size: 1.4rem;
+  color: #a64dff;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 1rem;
+  color: #ccc;
+  line-height: 1.5;
+}
+
+/* Hover */
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 25px rgba(128, 0, 255, 0.5);
+}
+
+/* FOOTER */
+footer {
+    background-color: #111;
+    padding: 20px 0;
+    border-top: 3px solid #a64dff;
+}
+
+footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer p {
+    color: #aaa;
+}
+
+footer .social a {
+    margin-left: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+footer .social a:hover {
+    color: #a64dff;
+}
