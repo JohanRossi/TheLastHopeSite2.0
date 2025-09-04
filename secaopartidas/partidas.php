@@ -18,12 +18,12 @@
     <h1>Compeonatos Disputados</h1>
     <p>Acompanhe os campeonatos e torneios que a <strong>The Last Hope Esports</strong> já disputou.</p>
   </section>
-
+  <h3>2025</h3>
   <section class="grid-competicoes">
 
     <!-- Card exemplo -->
-    <a href="competicao1.php" class="card">
-      <img src="../imgalery/campeonato1.jpg" alt="Campeonato Arena Breakout">
+    <a href="ultimaspartidas/arenabreakoutp.php" class="card">
+      <img src="imgcomp/ArenaBreakout.png" alt="Campeonato Arena Breakout">
       <div class="card-content">
         <h3>Arena Breakout Infinite</h3>
         <h2>Ralisco Showndown</h2>
@@ -31,12 +31,12 @@
       </div>
     </a>
 
-    <a href="competicao3.php" class="card">
-      <img src="../imgalery/campeonato3.jpg" alt="Rocket League Cup">
+    <a href="ultimaspartidas/rocketleaguep.php" class="card">
+      <img src="imgcomp/Rocket League.png" alt="Rocket League Cup">
       <div class="card-content">
         <h3>Rocket League</h3>
         <h2>Torneio 2x2 Diamante</h2>
-        <p>Competição amistosa com foco em performance e entrosamento da equipe.</p>
+        <p>Competição amistosa feita pela Psyonix em 2025 com jogadores possuindo o rank do campeonato.</p>
       </div>
     </a>
 
