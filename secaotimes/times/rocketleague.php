@@ -59,7 +59,7 @@
     <section class="campeonatos">
         <h2>Campeonatos</h2>
         <ul>
-            <li>Torneio Diamante T20 - WO</li>
+            <li>Torneio Diamante T20 - 16°</li>
         </ul>
     </section>
 

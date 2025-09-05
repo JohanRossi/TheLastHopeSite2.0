@@ -16,6 +16,11 @@
                 <li><strong>Idade:</strong> 19 anos</li>
                 <li><strong>Origem:</strong> Brasil, Rio Grande do Sul</li>
             </ul>
+
+            <h3>Redes Sociais</h3>
+            <ul class="detalhes">
+                <li><a href="https://www.youtube.com/@Fuziuu/featured">Youtube</a></li>
+            </ul>
             
             <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">

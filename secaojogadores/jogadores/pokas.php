@@ -16,6 +16,11 @@
                 <li><strong>Idade:</strong> 18 anos</li>
                 <li><strong>Origem:</strong> Brasil, São Paulo</li>
             </ul>
+
+            <h3>Redes Sociais</h3>
+            <ul class="detalhes">
+                <li><a href="https://www.youtube.com/@Pokas_Mind">Youtube</a></li>
+            </ul>
             
             <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">

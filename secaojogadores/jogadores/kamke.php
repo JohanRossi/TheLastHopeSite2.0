@@ -16,11 +16,17 @@
                 <li><strong>Idade:</strong> 18 anos</li>
                 <li><strong>Origem:</strong> Brasil, Santa Catarina</li>
             </ul>
+
+            <h3>Redes Sociais</h3>
+            <ul class="detalhes">
+                <li><a href="https://www.youtube.com/@Kamke2016">Youtube</a></li>
+                <li><a href="https://www.twitch.tv/RocketLeague">Twitch</a></li>
+            </ul>
             
             <h3>Ex-Jogador</h3>
             <ul class="lista-jogos">
                 <li>Counter Strike: Global Offensive</li>
-                <a href="../../secaotimes/times/rocketleague.php"><li>Rocket League</li></a>
+                <li><a href="../../secaotimes/times/rocketleague.php">Rocket League</a></li>
             </ul>
 
             <h3>Assistência Técnica</h3>
