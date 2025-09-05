@@ -5,7 +5,7 @@
     <div class="membros">
         <?php
         $membros = [
-            ['nome' => 'Rocket League Torneio Diamante', 'cargo' => 'TLH WO', 'img' => 'secaotimes/img/Rocket League.png', 'link' => 'secaopartidas/ultimaspartidas/rocketleaguep.php'],
+            ['nome' => 'Rocket League Torneio Diamante T20', 'cargo' => 'TLH 16°', 'img' => 'secaotimes/img/Rocket League.png', 'link' => 'secaopartidas/ultimaspartidas/rocketleaguep.php'],
             ['nome' => 'Ralisco Showdown', 'cargo' => 'TLH 37º', 'img' => 'secaotimes/img/ArenaBreakout.png', 'link' => 'secaopartidas/ultimaspartidas/arenabreakoutp.php'],
         ];
         foreach($membros as $membro): ?>
