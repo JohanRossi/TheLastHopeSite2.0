@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/* ESTILO GERAL */
+/* ESTILO GLOBAL */
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #000; /* fundo preto */
@@ -74,16 +74,6 @@ nav ul li a.active {
     color: #a64dff;
 }
 
-.logo-img {
-    height: 60px;
-}
-
-.logo {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: #fff;
-}
-
 .botoes {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
@@ -144,4 +134,4 @@ nav ul li a.active {
         flex-direction: column;
         gap: 10px;
     }
-    }
+}

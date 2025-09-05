@@ -16,7 +16,6 @@
                 <li><a href="../secaotimes/times.php">TIMES</a></li>
                 <li><a href="../secaojogadores/jogadores.php">MEMBROS</a></li>
                 <li><a href="partidas.php" class="active">COMPETIÇÕES</a></li>
-                <li><a href="../secaofuturosplanos/futurosplanos.php">FUTUROS PLANOS</a></li>
                 <li><a href="#junte">SEJA TLH</a></li>
                 <li><a href="../secaosobre/sobre.php">SOBRE NÓS</a></li>
             </ul>
