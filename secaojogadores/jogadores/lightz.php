@@ -19,9 +19,9 @@
             
             <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
-                <li>Rocket League</li>
-                <li>Counter Strike 2</li>
-                <li>Arena Breakout</li>
+                <li><a href="../../secaotimes/times/rocketleague.php">Rocket League</a></li>
+                <li><a href="../../secaotimes/times/cs2.php">Counter Strike 2</a></li>
+                <li><a href="../../secaotimes/times/arenabreakout.php">Arena Breakout</a></li>
             </ul>
             
             <h3>Times Atuados</h3>

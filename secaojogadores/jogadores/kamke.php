@@ -20,12 +20,12 @@
             <h3>Ex-Jogador</h3>
             <ul class="lista-jogos">
                 <li>Counter Strike: Global Offensive</li>
-                <li>Rocket League</li>
+                <a href="../../secaotimes/times/rocketleague.php"><li>Rocket League</li></a>
             </ul>
 
             <h3>Assistência Técnica</h3>
             <ul class="lista-jogos">
-                <li>Counter Strike 2 | Coach</li>
+                <li><a href="../../secaotimes/times/cs2.php">Counter Strike 2</a></li>
             </ul>
 <!-- 
             <h3>Modalidades Atuais</h3>

@@ -19,8 +19,8 @@
             
             <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
-                <li>Arena Breakout</li>
-                <li>Counter Strike 2</li>
+                <li><a href="../../secaotimes/times/arenabreakout.php">Arena Breakout</a></li>
+                <li><a href="../../secaotimes/times/cs2.php">Counter Strike 2</a></li>
             </ul>
             
             <h3>Times Atuados</h3>

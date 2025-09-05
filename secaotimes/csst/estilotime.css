@@ -209,6 +209,37 @@ section {
     list-style: none;
 }
 
+/* FOOTER */
+footer {
+    background-color: #111;
+    padding: 20px 0;
+    border-top: 3px solid #a64dff;
+}
+
+footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer p {
+    color: #aaa;
+}
+
+footer .social a {
+    margin-left: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+footer .social a:hover {
+    color: #a64dff;
+}
+
 .campeonatos li {
     background: #1a1a1a;
     padding: 12px;

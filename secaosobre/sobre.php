@@ -37,7 +37,7 @@
     <div class="links-grid">
       <a href="https://twitch.tv" target="_blank">🎮 Twitch</a>
       <a href="https://discord.gg" target="_blank">💬 Discord</a>
-      <a href="https://instagram.com" target="_blank">📸 Instagram</a>
+      <a href="https://youtube.com" target="_blank">📸 Youtube</a>
     </div>
   </section>
 

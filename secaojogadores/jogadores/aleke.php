@@ -19,7 +19,7 @@
             
             <h3>Modalidades Atuais</h3>
             <ul class="lista-jogos">
-                <li>Rocket League</li>
+                <a href="../../secaotimes/times/rocketleague.php"><li>Rocket League</li></a>
             </ul>
             
             <h3>Times Atuados</h3>

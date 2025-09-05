@@ -1,4 +1,5 @@
 <?php include('includes/header.php'); ?>
+<link rel="stylesheet" href="csst/estilo.css">
 
     <section>
     <div>
@@ -31,3 +32,5 @@
     </section>
 </body>
 </html>
+
+<?php include('includes/footer.php'); ?>

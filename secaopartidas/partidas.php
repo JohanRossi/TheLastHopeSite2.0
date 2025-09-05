@@ -35,7 +35,7 @@
       <img src="imgcomp/Rocket League.png" alt="Rocket League Cup">
       <div class="card-content">
         <h3>Rocket League</h3>
-        <h2>Torneio 2x2 Diamante</h2>
+        <h2>Torneio 2x2 Diamante Temporada 20</h2>
         <p>Competição amistosa feita pela Psyonix em 2025 com jogadores possuindo o rank do campeonato.</p>
       </div>
     </a>

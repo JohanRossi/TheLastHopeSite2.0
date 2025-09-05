@@ -13,7 +13,7 @@
             <ul>
                 <li><a href="../main.php">HOME</a></li>
                 <li><a href="../secaotimes/times.php">TIMES</a></li>
-                <li><a href="../secaojogadores/jogadores.php" class="active">JOGADORES</a></li>
+                <li><a href="../secaojogadores/jogadores.php" class="active">MEMBROS</a></li>
                 <li><a href="../secaopartidas/partidas.php">COMPETIÇÕES</a></li>
                 <li><a href="#junte">SEJA TLH</a></li>
                 <li><a href="../secaosobre/sobre.php">SOBRE NÓS</a></li>

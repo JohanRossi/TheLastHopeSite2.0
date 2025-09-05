@@ -6,21 +6,11 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #0f0f0f;
-    color: #fff;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+     font-family: Arial, Helvetica, sans-serif;
+    background-color: #000; /* fundo preto */
+    color: #fff; /* texto branco */
+    line-height: 1.6;
 }
-
-/* Container */
-.container {
-    max-width: 1200px;
-    margin: auto;
-    padding: 20px;
-}
-
 /* Header */
 a {
     color: #fff;
@@ -128,14 +118,6 @@ nav ul li a.active {
     box-sizing: border-box;
 }
 
-/* ESTILO GERAL */
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #0b0b0b; /* preto quase puro */
-    color: #fff; /* branco */
-    line-height: 1.6;
-}
-
 /* SEÇÃO PERFIL */
 #perfil-jogador {
     padding: 50px 20px;
@@ -226,6 +208,8 @@ body {
     color: #fff;
 }
 
+
+
 /* ESTATÍSTICAS */
 .stats {
     display: flex;
@@ -265,7 +249,7 @@ body {
 
 /* Footer */
 footer {
-    background-color: #000;
+    background-color: #111;
     color: #b300ff;
     padding: 20px 0;
     margin-top: auto; /* força o footer para o final */
