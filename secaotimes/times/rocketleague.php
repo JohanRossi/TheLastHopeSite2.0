@@ -34,7 +34,7 @@
             <p>Função: Assistente</p>
         </a>
         <a href="../../secaojogadores/jogadores/lightz.php" class="jogador">
-            <img src="../img/lightz3.png" alt="Jogador 2">
+            <img src="../img/semfoto.png" alt="Jogador 2">
             <h3>L1GHTZ</h3>
             <p>Função: Assistente</p>
         </a>

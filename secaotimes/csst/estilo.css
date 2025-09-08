@@ -13,6 +13,20 @@ body {
     line-height: 1.6;
 }
 
+.container {
+    max-width: 1600px;
+    margin: 0 auto;      /* centraliza na tela */
+    padding: 0 20px; 
+    align-items: center;    /* espaçamento interno */
+}
+
+.container1 {
+    max-width: 500px;   /* define largura máxima fixa */
+    margin: 0 auto;      /* centraliza na tela */
+    padding: 0 20px;     /* espaçamento interno */
+    align-items: center;
+}
+
 h1, h2, h3 {
     color: #fff;
     font-weight: 700;
@@ -86,8 +100,7 @@ nav ul li a.active {
 }
 
 .botao-imagem img {
-    width: 100%; /* ocupa a largura da coluna do grid */
-    height: 150px;
+    width: 90%; /* ocupa a largura da coluna do grid */
     object-fit: cover;
     border: 2px solid #b300ff;
     border-radius: 8px;

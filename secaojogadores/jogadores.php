@@ -34,7 +34,7 @@
         </div>
         <div class="jogador-card">
             <a href="jogadores/lightz.php">
-                <img src="img/lightz.png" alt="SniperPro">
+                <img src="img/semfoto.png" alt="SniperPro">
                 <h3>Lightz</h3>
                 <p>Rocket League | Counter Strike 2 | Arena Breakout</p>
             </a>

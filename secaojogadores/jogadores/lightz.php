@@ -3,7 +3,7 @@
 <section id="perfil-jogador" class="jogador">
     <div class="container perfil-container">
         <div class="foto-jogador">
-            <img src="../img/lightz.png" alt="PokasZideia">
+            <img src="../img/semfoto.png" alt="PokasZideia">
         </div>
         <div class="info-jogador">
             <h2>Lightz</h2>

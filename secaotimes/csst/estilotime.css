@@ -12,6 +12,12 @@ body {
     line-height: 1.6;
 }
 
+.container {
+    max-width: 1200px; /* largura máxima fixa */
+    margin: 0 auto; /* centraliza no meio */
+    padding: 20px;
+}
+
 h1, h2, h3 {
     color: #fff;
     font-weight: 700;

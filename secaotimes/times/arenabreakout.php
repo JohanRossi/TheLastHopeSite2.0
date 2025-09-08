@@ -32,7 +32,7 @@
             <p>Função: Killer</p>
         </a>
         <a href="../../secaojogadores/jogadores/lightz.php" class="jogador">
-            <img src="../img/lightz2.jpg" alt="Jogador 2">
+            <img src="../img/semfoto.png" alt="Jogador 2">
             <h3>L1GHTZ</h3>
             <p>Função: Killer</p>
         </a>
@@ -42,7 +42,7 @@
             <p>Função: Suporte</p>
         </a>
         <a href="../../secaojogadores/jogadores/miushi.php" class="jogador">
-            <img src="../img/random.jpeg" alt="Jogador 3">
+            <img src="../img/semfoto.png" alt="Jogador 3">
             <h3>Miushi</h3>
             <p>Função: Random</p>
         </a>
