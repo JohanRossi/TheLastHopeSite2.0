@@ -14,14 +14,14 @@ body {
 }
 
 .container {
-    max-width: 1600px;
+    max-width: 1800px;
     margin: 0 auto;      /* centraliza na tela */
     padding: 0 20px; 
     align-items: center;    /* espaçamento interno */
 }
 
 .container1 {
-    max-width: 500px;   /* define largura máxima fixa */
+    max-width: 550px;   /* define largura máxima fixa */
     margin: 0 auto;      /* centraliza na tela */
     padding: 0 20px;     /* espaçamento interno */
     align-items: center;
