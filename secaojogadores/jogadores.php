@@ -8,7 +8,7 @@
             <a href="jogadores/pokas.php">
                 <img src="img/pokas.jpg" alt="Pokas">
                 <h3>Pokas</h3>
-                <p>Rocket League | Counter Strike 2</p>
+                <p>Rocket League | Counter Strike 2 | Clash Of Clans</p>
             </a>
         </div>
         <div class="jogador-card">

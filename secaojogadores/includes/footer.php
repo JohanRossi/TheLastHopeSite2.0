@@ -1,6 +1,6 @@
 <footer>
     <div class="container">
-        <p>© 2025 | The Last Hope Esports - Seção Jogadores</p>
+        <p>© 2025 | The Last Hope Esports</p>
         <div class="social">
             <a href="#">Twitch</a>
             <a href="#">Youtube</a>

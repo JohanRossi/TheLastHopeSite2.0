@@ -38,11 +38,15 @@
             <h3>L1GHTZ</h3>
             <p>Função: Assistente</p>
         </a>
-        <a href="../../secaojogadores/jogadores/kamke.php" class="jogador">
-            <img src="../img/kamke.png" alt="Jogador 3">
+    </section>
+
+    <section class="jogadores">
+        <h2>Assistência Técnica</h2>
+        <div class="jogador">
+            <img src="../img/kamke2.png" alt="Jogador 1">
             <h3>Kamke</h3>
-            <p>Função: Defesa</p>
-        </a>
+            <p>Função: Coach</p>
+        </div>
     </section>
 
     <!-- Partidas -->

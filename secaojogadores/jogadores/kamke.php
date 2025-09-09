@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Kamke</h2>
             <p class="descricao">
-                Kamke "Reinaldo Camilo" foi o primeiro membro a ingressar no time ainda em 2021. É um dos membros mais queridos dentro do time, com passagens pelo Counter Strike: Global Offensive e Rocket League. Atualmente atua apenas na comissão tecnica de Counter Strike 2 como coach e Influencer sendo Streamer e Youtuber do time, com conteudos divertidos e bem editados de gameplays.
+                Kamke "Reinaldo Camilo" foi o primeiro membro a ingressar no time ainda em 2021. É um dos membros mais queridos dentro do time, com passagens pelo Counter Strike: Global Offensive e Rocket League. Atualmente atua apenas na comissão tecnica de Counter Strike 2 e Rocket League como coach, e Influencer sendo Streamer e Youtuber do time, com conteudos divertidos e bem editados de gameplays.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Reinaldo Kamke</li>
@@ -32,6 +32,7 @@
             <h3>Assistência Técnica</h3>
             <ul class="lista-jogos">
                 <li><a href="../../secaotimes/times/cs2.php">Counter Strike 2</a></li>
+                <li><a href="../../secaotimes/times/rocketleague.php">Rocket League</a></li>
             </ul>
 <!-- 
             <h3>Modalidades Atuais</h3>
@@ -47,37 +48,37 @@
             </ul>
             
             <h1>Estatísticas</h1>
-            <h3>Rocket League</h3>
+            <h3>Rocket League 2024</h3>
             <div class="stats">
                 <div class="stat-card">
-                    <span class="valor">x</span>
+                    <span class="valor">50+</span>
                     <span class="label">Gols</span>
                 </div>
                 <div class="stat-card">
-                    <span class="valor">x</span>
+                    <span class="valor">60+</span>
                     <span class="label">Assistências</span>
                 </div>
                 <div class="stat-card">
-                    <span class="valor">x</span>
+                    <span class="valor">30+</span>
                     <span class="label">Defesas</span>
                 </div>
                 <div class="stat-card">
-                    <span class="valor">null</span>
+                    <span class="valor">Ouro I</span>
                     <span class="label">3x3</span>
                 </div>
                 <div class="stat-card">
-                    <span class="valor">null</span>
+                    <span class="valor">Prata III</span>
                     <span class="label">2x2</span>
                 </div>
                 <div class="stat-card">
-                    <span class="valor">null</span>
+                    <span class="valor">Platina I</span>
                     <span class="label">1x1</span>
                 </div>
             </div>
-            <h3>Counter Strike 2</h3>
+            <h3>Counter Strike Global Offensive 2023</h3>
             <div class="stats">
                 <div class="stat-card">
-                    <span class="valor">Aluminio IX</span>
+                    <span class="valor">Ouro I</span>
                     <span class="label">Competitivo</span>
                 </div>
             </div>

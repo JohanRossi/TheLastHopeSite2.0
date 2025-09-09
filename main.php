@@ -112,7 +112,7 @@
 
 <section id="sobre" class="sobre">
     <h2>The Last Hope Esports</h2>
-    <p>Equipe profissional de esportes eletronicos, atuando principalmente no jogo Rocket League.</p>
+    <p>Equipe profissional de esportes eletronicos.</p>
 </section>
 
 <section id="junte" class="cta">
