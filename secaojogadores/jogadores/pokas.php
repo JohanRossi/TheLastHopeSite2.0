@@ -68,11 +68,32 @@
                     <span class="label">1x1</span>
                 </div>
             </div>
+
             <h3>Counter Strike 2</h3>
             <div class="stats">
                 <div class="stat-card">
                     <span class="valor">Prata II</span>
                     <span class="label">Competitivo</span>
+                </div>
+            </div>
+
+            <h3>Clash Of Clans</h3>
+            <div class="stats">
+                <div class="stat-card">
+                    <span class="valor">Centro de Vila 10</span>
+                    <span class="label">Prata I</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">Centro de Vila 9</span>
+                    <span class="label">Prata III</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">Centro de Vila 8</span>
+                    <span class="label">Prata III</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">Centro de Vila 8</span>
+                    <span class="label">Bronze I</span>
                 </div>
             </div>
         </div>
