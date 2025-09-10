@@ -78,7 +78,7 @@
             <h3>Counter Strike Global Offensive 2023</h3>
             <div class="stats">
                 <div class="stat-card">
-                    <span class="valor">Ouro I</span>
+                    <span class="valor">Ouro III</span>
                     <span class="label">Competitivo</span>
                 </div>
             </div>

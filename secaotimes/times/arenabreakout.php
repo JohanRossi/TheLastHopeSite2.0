@@ -41,7 +41,7 @@
             <h3>Fusion</h3>
             <p>Função: Suporte</p>
         </a>
-        <a href="../../secaojogadores/jogadores/miushi.php" class="jogador">
+        <a  class="jogador">
             <img src="../img/semfoto.png" alt="Jogador 3">
             <h3>Miushi</h3>
             <p>Função: Random</p>
@@ -53,9 +53,9 @@
     <section class="partidas">
         <h2>Partidas Recentes</h2>
         <ul>
-            <li>The Last Hope X Paitan | NR</li>
-            <li>The Last Hope X FourFun Team | NR</li>
-            <li>The Last Hope X Dragon's Slayers | NR</li>
+            <li>The Last Hope X Paitan | NR | 17/05/2025 | Ralisco Showdown 2</li>
+            <li>The Last Hope X FourFun Team | NR | 17/05/2025 | Ralisco Showdown 2</li>
+            <li>The Last Hope X Dragon's Slayers | NR | 17/05/2025 | Ralisco Showdown 2</li>
         </ul>
     </section>
 

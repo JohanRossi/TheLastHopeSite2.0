@@ -39,8 +39,9 @@
     <section class="partidas">
         <h2>Guerras Recentes</h2>
         <ul>
-            <li>TLH 13 X 11 **** | 5x5 | VITÓRIA - 09/09/2025</li>
-            <li>TLH 15 X 12 нолик | 5x5 | VITÓRIA - 08/09/2025</li>
+            <li>TLH 10 X 14 Team uz | 5x5 | DERROTA - 11/09/2025</li>
+            <li>TLH 13 X 11 **** | 5x5 | VITÓRIA - 10/09/2025</li>
+            <li>TLH 15 X 12 нолик | 5x5 | VITÓRIA - 09/09/2025</li>
             <li>TLH 11 X 14 kongu boizz | 5x5 | DERROTA - 06/09/2025</li>
         </ul>
     </section>

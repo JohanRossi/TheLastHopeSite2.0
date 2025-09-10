@@ -55,20 +55,6 @@
         <h2>Partidas Recentes</h2>
         <ul>
             <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
-            <li>TLH X </li>
         </ul>
     </section>
 

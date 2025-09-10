@@ -1,11 +1,11 @@
 <?php include('includes/header.php'); ?>
 
 <section id="jogos" class="time">
-    <h2>ULTIMOS JOGOS</h2>
+    <h2>ULTIMAS COMPETIÇÕES</h2>
     <div class="membros">
         <?php
         $membros = [
-            ['nome' => 'Rocket League Torneio Diamante T20', 'cargo' => 'TLH 16°', 'img' => 'secaotimes/img/Rocket League.png', 'link' => 'secaopartidas/ultimaspartidas/rocketleaguep.php'],
+            ['nome' => 'Rocket League Torneio Diamante T20', 'cargo' => 'TLH 8°', 'img' => 'secaotimes/img/Rocket League.png', 'link' => 'secaopartidas/ultimaspartidas/rocketleaguep.php'],
             ['nome' => 'Ralisco Showdown', 'cargo' => 'TLH 37º', 'img' => 'secaotimes/img/ArenaBreakout.png', 'link' => 'secaopartidas/ultimaspartidas/arenabreakoutp.php'],
         ];
         foreach($membros as $membro): ?>

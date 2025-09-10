@@ -41,7 +41,7 @@
             </ul>
             
             <h1>Estatísticas</h1>
-            <h3>Rocket League</h3>
+            <h3>Rocket League 2025</h3>
             <div class="stats">
                 <div class="stat-card">
                     <span class="valor">5280</span>
@@ -56,7 +56,7 @@
                     <span class="label">Defesas</span>
                 </div>
                 <div class="stat-card">
-                    <span class="valor">Platina III</span>
+                    <span class="valor">Diamante III</span>
                     <span class="label">3x3</span>
                 </div>
                 <div class="stat-card">
@@ -68,8 +68,35 @@
                     <span class="label">1x1</span>
                 </div>
             </div>
+            <h3>Rocket League 2024</h3>
+            <div class="stats">
+                <div class="stat-card">
+                    <span class="valor">4120</span>
+                    <span class="label">Gols</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">1642</span>
+                    <span class="label">Assistências</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">3487</span>
+                    <span class="label">Defesas</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">Diamante I</span>
+                    <span class="label">3x3</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">Diamante II</span>
+                    <span class="label">2x2</span>
+                </div>
+                <div class="stat-card">
+                    <span class="valor">Ouro III</span>
+                    <span class="label">1x1</span>
+                </div>
+            </div>
 
-            <h3>Counter Strike 2</h3>
+            <h3>Counter Strike 2 2025</h3>
             <div class="stats">
                 <div class="stat-card">
                     <span class="valor">Prata II</span>
@@ -77,7 +104,7 @@
                 </div>
             </div>
 
-            <h3>Clash Of Clans</h3>
+            <h3>Clash Of Clans 2025</h3>
             <div class="stats">
                 <div class="stat-card">
                     <span class="valor">Centro de Vila 10</span>
