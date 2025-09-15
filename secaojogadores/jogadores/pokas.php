@@ -26,6 +26,7 @@
             <ul class="lista-jogos">
                 <li><a href="../../secaotimes/times/rocketleague.php">Rocket League</a></li>
                 <li><a href="../../secaotimes/times/cs2.php">Counter Strike 2</a></li>
+                <li><a href="../../secaotimes/times/clashofclans.php">Clash of Clans</a></li>
             </ul>
 
             <h3>Ex-Jogador</h3>

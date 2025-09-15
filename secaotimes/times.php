@@ -32,12 +32,31 @@
 </section>
 
 <section>
-  <div class="container1">
+  <div class="container">
     <div class="botoes">
       <div class="botao-imagem">
         <a href="times/clashofclans.php">
           <img src="img/clashofclans.png" alt="Time">
           <p>Clash Of Clans</p>
+        </a>
+      </div>
+      <div class="botao-imagem">
+        <a href="times/clashroyale.php">
+          <img src="img/clashroyale.jpeg" alt="Time">
+          <p>Clash Royale</p>
+        </a>
+      </div>
+      <div class="botao-imagem">
+        <a href="#">
+          <img src="img/jogoindisponivel.png" alt="Time">
+          <p>...
+          </p>
+        </a>
+      </div>
+      <div class="botao-imagem">
+        <a href="#">
+          <img src="img/jogoindisponivel.png" alt="Time">
+          <p>...</p>
         </a>
       </div>
     </div>
