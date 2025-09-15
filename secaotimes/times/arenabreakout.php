@@ -62,9 +62,7 @@
     <!-- Campeonatos -->
     <section class="campeonatos">
         <h2>Campeonatos</h2>
-        <ul>
-            <li>Ralisco Showdown 2.0 - 37º</li>
-        </ul>
+        <a href="../../secaopartidas/ultimaspartidas/arenabreakoutp.php" >Ralisco Showdown 2.0 - 37º</a>
     </section>
 
 </main>

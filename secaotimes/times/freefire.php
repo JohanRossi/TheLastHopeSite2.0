@@ -22,12 +22,12 @@
         <a href="../../secaojogadores/jogadores/pokas.php" class="jogador">
             <img src="../img/pokas3.png" alt="Jogador 1">
             <h3>PokasZideia</h3>
-            <p>Função: Atirador</p>
+            <p>Mestre x14</p>
         </a>
         <a href="../../secaojogadores/jogadores/beca.php" class="jogador">
             <img src="../img/beca.jpg" alt="Jogador 2">
             <h3>Beca</h3>
-            <p>Função: Suporte</p>
+            <p>Mestre x5</p>
         </a>
     </section>
 
@@ -35,9 +35,7 @@
     <section class="partidas">
         <h2>Partidas Recentes</h2>
         <ul>
-            <li>TLH X </li>
-            <li>TLH X</li>
-            <li>TLH X</li>
+            <li>O time não participou de partidas recentes.</li>
         </ul>
     </section>
 

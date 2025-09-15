@@ -53,9 +53,7 @@
     <section class="partidas">
         <h2>Partidas Recentes</h2>
         <ul>
-            <li>TLH X </li>
-            <li>TLH X</li>
-            <li>TLH X</li>
+            <li>O time não participou de partidas recentes.</li>
         </ul>
     </section>
 
@@ -63,7 +61,7 @@
     <section class="campeonatos">
         <h2>Campeonatos</h2>
         <ul>
-            <li>Torneio Diamante T20 - 16°</li>
+            <li><a href="../../secaopartidas/ultimaspartidas/rocketleaguep.php"> Torneio Diamante T20 - 8°</a></li>
         </ul>
     </section>
 
