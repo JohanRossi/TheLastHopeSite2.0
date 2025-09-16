@@ -90,7 +90,7 @@
             ['nome' => 'KAMKE', 'cargo' => 'Influencer | Assistente Tecnico', 'img' => 'secaotimes/img/kamke2.png', 'link' => 'secaojogadores/jogadores/kamke.php'],
             ['nome' => 'Fusion', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/fusion2.jpg', 'link' => 'secaojogadores/jogadores/fusion.php'],
             ['nome' => 'VT', 'cargo' => 'Influencer | Jogador Pro', 'img' => 'secaotimes/img/vt.png', 'link' => 'secaojogadores/jogadores/vt.php'],
-            ['nome' => 'Aleke', 'cargo' => 'Jogador Pro | Influencer | CEO', 'img' => 'secaotimes/img/aleke.jpg', 'link' => 'secaojogadores/jogadores/aleke.php'],
+            ['nome' => 'Aleke', 'cargo' => 'Jogador Pro | CEO', 'img' => 'secaotimes/img/aleke.jpg', 'link' => 'secaojogadores/jogadores/aleke.php'],
             ['nome' => 'Beca', 'cargo' => 'Jogador Pro', 'img' => 'secaotimes/img/Beca.jpg', 'link' => 'secaojogadores/jogadores/beca.php'],
         ];
 

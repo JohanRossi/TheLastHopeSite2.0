@@ -82,6 +82,8 @@ nav ul li a.active {
 }
 
 .jogador-card {
+    max-width: 220px;
+    max-height: 400px;
     background-color: #1c1c1c;
     border: 2px solid #b300ff;
     border-radius: 12px;
@@ -113,7 +115,7 @@ nav ul li a.active {
 .jogador-card p {
     color: #ccc;
     font-size: 0.95rem;
-    padding: 0 10px 15px 10px;
+    padding: Auto;
 }
 
 /* RESET */
@@ -135,7 +137,7 @@ nav ul li a.active {
     display: flex;
     flex-wrap: wrap;
     gap: 40px;
-    align-items: center;
+    align-items: flex-start;
 }
 
 /* FOTO DO JOGADOR */

@@ -8,7 +8,10 @@
             <a href="jogadores/pokas.php">
                 <img src="img/pokas.jpg" alt="Pokas">
                 <h3>Pokas</h3>
-                <p>Rocket League | Counter Strike 2 | Clash Of Clans</p>
+                <p>Rocket League</p>
+                <p>Counter Strike 2</p>
+                <p>Clash Of Clans</p>
+                <p>Clash Royale</p>
             </a>
         </div>
         <div class="jogador-card">
@@ -22,21 +25,25 @@
             <a href="jogadores/vt.php">
                 <img src="img/vt.png" alt="SniperPro">
                 <h3>VT</h3>
-                <p>Counter Strike 2 | Arena Breakout</p>
+                <p>Counter Strike 2</p>
+                <p>Arena Breakout</p>
             </a>
         </div>
         <div class="jogador-card">
             <a href="jogadores/fusion.php">
                 <img src="img/fusion.png" alt="SniperPro">
                 <h3>Fusion</h3>
-                <p>Counter Strike 2 | Arena Breakout</p>
+                <p>Counter Strike 2</p>
+                <p>Arena Breakout</p>
             </a>
         </div>
         <div class="jogador-card">
             <a href="jogadores/lightz.php">
                 <img src="img/semfoto.png" alt="SniperPro">
                 <h3>Lightz</h3>
-                <p>Rocket League | Counter Strike 2 | Arena Breakout</p>
+                <p>Rocket League</p>
+                <p>Counter Strike 2</p>
+                <p>Arena Breakout</p>
             </a>
         </div>
         <div class="jogador-card">
@@ -44,6 +51,7 @@
                 <img src="img/beca.jpg" alt="Beca">
                 <h3>Beca</h3>
                 <p>Rainbow Six Siege</p>
+                <p>Clash Royale</p>
             </a>
         </div>
     </div>
@@ -56,28 +64,29 @@
             <a href="jogadores/kamke.php">
                 <img src="img/kamke2.png" alt="SniperPro">
                 <h3>Kamke</h3>
-                <p>Influencer</p>
+                <p>Youtuber</p>
+                <p>Streamer</p>
             </a>
         </div>
         <div class="jogador-card">
             <a href="jogadores/vt.php">
                 <img src="img/vt.png" alt="SniperPro">
                 <h3>VT</h3>
-                <p>Influencer</p>
+                <p>Streamer</p>
             </a>
         </div>
         <div class="jogador-card">
             <a href="jogadores/pokas.php">
                 <img src="img/pokas.jpg" alt="Pokas">
                 <h3>Pokas</h3>
-                <p>Influencer</p>
+                <p>Youtuber</p>
             </a>
         </div>
         <div class="jogador-card">
             <a href="jogadores/fusion.php">
                 <img src="img/fusion.png" alt="SniperPro">
                 <h3>Fusion</h3>
-                <p>Influencer</p>
+                <p>Youtuber</p>
             </a>
         </div>
     </div>
@@ -90,7 +99,8 @@
             <a href="jogadores/kamke.php">
                 <img src="img/kamke2.png" alt="SniperPro">
                 <h3>Kamke</h3>
-                <p>Assistente Técnico</p>
+                <p>Counter Strike 2 - Coach</p>
+                <p>Rocket League - Coach</p>
             </a>
         </div>
     </div>
