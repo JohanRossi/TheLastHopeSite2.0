@@ -33,6 +33,7 @@
         <tr>
           <td>36°</td>
           <td>
+            <img src="../../secaotimes/img/jogoindisponivel.png" alt="The Last Hope" class="logo-time">
             Dark Tactical
           </td>
           <td>8</td>
@@ -52,6 +53,7 @@
         <tr>
           <td>38°</td>
           <td>
+            <img src="../../secaotimes/img/jogoindisponivel.png" alt="The Last Hope" class="logo-time">
             iLOOT
           </td>
           <td>8</td>

@@ -29,7 +29,7 @@
         </a>
       </div>
   </div>
-  
+
     <div class="botoes">
       <div class="botao-imagem">
         <a href="times/clashofclans.php">
@@ -39,7 +39,7 @@
       </div>
       <div class="botao-imagem">
         <a href="times/clashroyale.php">
-          <img src="img/clashroyale.jpeg" alt="Time">
+          <img src="img/clashroyale.png" alt="Time">
           <p>Clash Royale</p>
         </a>
       </div>
