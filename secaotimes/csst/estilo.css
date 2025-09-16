@@ -15,10 +15,10 @@ body {
 
 .container {
     max-width: 1650px;
-    max-height: 300px;
     margin: 0 auto; 
     padding: 0px 0px;     /* centraliza na tela */
     align-items: center;
+    margin-top: 50px;
     margin-bottom: 10px;    /* espaçamento interno */
 }
 

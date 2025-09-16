@@ -24,15 +24,12 @@
     </div>
     <div class="botao-imagem">
         <a href="times/cs2.php">
-          <img src="img/cs2.jpeg" alt="Time">
+          <img src="img/cs2.png" alt="Time">
           <p>Counter Strike 2</p>
         </a>
       </div>
   </div>
-</section>
-
-<section>
-  <div class="container">
+  
     <div class="botoes">
       <div class="botao-imagem">
         <a href="times/clashofclans.php">
@@ -60,7 +57,6 @@
         </a>
       </div>
     </div>
-  </div>
 </section>
 
 </body>

@@ -11,6 +11,11 @@ body {
     color: #fff; /* texto branco */
     line-height: 1.6;
 }
+
+body h1 {
+    text-align: center;
+    margin-top: 20px;
+}
 /* Header */
 a {
     color: #fff;
@@ -73,7 +78,7 @@ nav ul li a.active {
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .jogador-card {
@@ -252,7 +257,7 @@ footer {
     background-color: #111;
     color: #b300ff;
     padding: 20px 0;
-    margin-top: auto; /* força o footer para o final */
+    margin-top: 20px; /* força o footer para o final */
     text-align: center;
 }
 
