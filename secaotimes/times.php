@@ -1,7 +1,36 @@
 <?php include('includes/header.php'); ?>
 <link rel="stylesheet" href="csst/estilo.css">
 
-    <section>
+<?php
+require_once __DIR__ . '/../lib/Database.php';
+$pdo = Database::get();
+
+$stmt = $pdo->query("SELECT id, name, tag, logo, country FROM teams ORDER BY name");
+$teams = $stmt->fetchAll();
+?>
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Times</title></head>
+<body>
+  <h1>Times</h1>
+  <div class="row">
+    <?php foreach ($teams as $t): ?>
+      <div class="col">
+        <div class="card">
+          <img src="<?= htmlspecialchars($t['logo']) ?>" alt="<?= htmlspecialchars($t['name']) ?>" />
+          <div class="card-body">
+            <h5><?= htmlspecialchars($t['name']) ?> (<?= htmlspecialchars($t['tag']) ?>)</h5>
+            <p><?= htmlspecialchars($t['country']) ?></p>
+          </div>
+        </div>
+      </div>
+    <?php endforeach; ?>
+  </div>
+</body>
+</html>
+
+
+   <!-- <section> 
   <div class="container">
     <div class="botoes">
       <div class="botao-imagem">
@@ -61,5 +90,5 @@
 
 </body>
 </html>
-
+-->
 <?php include('includes/footer.php'); ?>
