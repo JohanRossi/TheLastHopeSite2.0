@@ -4,33 +4,27 @@
 <?php
 require_once __DIR__ . '/../lib/Database.php';
 $pdo = Database::get();
-
-$stmt = $pdo->query("SELECT id, name, tag, logo, country FROM teams ORDER BY name");
-$teams = $stmt->fetchAll();
+$times = $pdo->query("SELECT id, name, tag, logo, country FROM teams ORDER BY name")->fetchAll();
 ?>
-<!doctype html>
-<html>
-<head><meta charset="utf-8"><title>Times</title></head>
-<body>
-  <h1>Times</h1>
-  <div class="row">
-    <?php foreach ($teams as $t): ?>
-      <div class="col">
-        <div class="card">
-          <img src="<?= htmlspecialchars($t['logo']) ?>" alt="<?= htmlspecialchars($t['name']) ?>" />
-          <div class="card-body">
-            <h5><?= htmlspecialchars($t['name']) ?> (<?= htmlspecialchars($t['tag']) ?>)</h5>
-            <p><?= htmlspecialchars($t['country']) ?></p>
-          </div>
-        </div>
-      </div>
-    <?php endforeach; ?>
-  </div>
-</body>
-</html>
 
+<div class="container">
+    <h1>Times</h1>
+    <div class="botoes">
+        <?php foreach ($times as $time): ?>
+            <div class="botao-imagem">
+                <img src="<?php echo htmlspecialchars($time['logo']); ?>" alt="<?php echo htmlspecialchars($time['name']); ?>">
+                <p><?php echo htmlspecialchars($time['name']); ?> 
+                   <?php if (!empty($time['tag'])): ?>
+                       (<?php echo htmlspecialchars($time['tag']); ?>)
+                   <?php endif; ?>
+                </p>
+                <p><?php echo htmlspecialchars($time['country']); ?></p>
+            </div>
+        <?php endforeach; ?>
+    </div>
+</div>
 
-   <!-- <section> 
+<section> 
   <div class="container">
     <div class="botoes">
       <div class="botao-imagem">
@@ -88,7 +82,7 @@ $teams = $stmt->fetchAll();
     </div>
 </section>
 
+
 </body>
 </html>
--->
 <?php include('includes/footer.php'); ?>
