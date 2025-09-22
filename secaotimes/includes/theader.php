@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>THE LAST HOPE ESPORTS</title>
-    <link rel="stylesheet" href="csst/estilo.css">
-    <link rel="stylesheet" href="../csst/estilotime.css">
+    <link rel="stylesheet" href="../assets/css/estilotime.css">
 </head>
 <body>
 <header>

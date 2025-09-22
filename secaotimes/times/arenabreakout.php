@@ -41,11 +41,6 @@
             <h3>Fusion</h3>
             <p>Função: Suporte</p>
         </a>
-        <a  class="jogador">
-            <img src="../img/semfoto.png" alt="Jogador 3">
-            <h3>Miushi</h3>
-            <p>Função: Random</p>
-        </a>
 
     </section>
 

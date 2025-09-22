@@ -33,11 +33,9 @@
 
   <!-- Links úteis -->
   <section class="links">
-    <h2>Conecte-se Conosco</h2>
+    <h2>Faça parte da nossa comunidade!</h2>
     <div class="links-grid">
-      <a href="https://twitch.tv" target="_blank">🎮 Twitch</a>
-      <a href="https://discord.gg" target="_blank">💬 Discord</a>
-      <a href="https://youtube.com" target="_blank">📸 Youtube</a>
+      <a href="#" target="_blank">SE JUNTE A NÓS</a>
     </div>
   </section>
 

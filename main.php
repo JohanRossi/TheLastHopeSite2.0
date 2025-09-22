@@ -104,22 +104,6 @@
     </div>
 </section>
 
-
-<section id="futuros" class="projetos">
-    <h2>Planos Futuros</h2>
-    <p>The Last Hope Esports espera se tornar uma grande equipe de nivel mundial.</p>
-</section>
-
-<section id="sobre" class="sobre">
-    <h2>The Last Hope Esports</h2>
-    <p>Equipe profissional de esportes eletronicos.</p>
-</section>
-
-<section id="junte" class="cta">
-    <h2>Quer fazer parte do nosso time?</h2>
-    <a class="btn" href="#contato">Candidate-se</a>
-</section>
-
 <script>
     // Seleciona todos as imagens da galeria
     const imagens = document.querySelectorAll('.galeria-container img');
