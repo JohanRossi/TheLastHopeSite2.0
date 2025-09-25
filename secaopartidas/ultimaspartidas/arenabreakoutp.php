@@ -79,6 +79,38 @@ O time caiu na primeira fase do campeonato, ficando em 37º lugar da tabela com 
 
 O MVP foi Lightz com melhor desempenho. </h3></p>
   </section>
+
+  <section>
+    <h1>JOGADORES</h1>
+    <div class="jogadores-container">
+        <div class="jogador-card">
+            <a href="../../secaojogadores/jogadores/vt.php">
+                <img src="../../secaojogadores/img/vt.png" alt="VT">
+                <h3>VT</h3>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="../../secaojogadores/jogadores/lightz.php">
+                <img src="../../secaojogadores/img/semfoto.png" alt="L1GHTZ">
+                <h3>L1GHTZ</h3>
+                <p>MVP</p>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="../../secaojogadores/jogadores/fusion.php">
+                <img src="../../secaojogadores/img/fusion.png" alt="Fusion">
+                <h3>Fusion</h3>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="#">
+                <img src="../../secaojogadores/img/semfoto.png" alt="Miushi">
+                <h3>Miushi</h3>
+            </a>
+        </div>
+    </div>
+</section>
+
 </main>
 
 <?php include './includes/footer.php'; ?>

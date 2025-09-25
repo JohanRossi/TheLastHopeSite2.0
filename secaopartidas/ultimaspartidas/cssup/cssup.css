@@ -16,6 +16,7 @@ body {
 h1, h2, h3 {
     color: #fff;
     font-weight: 700;
+    text-align: center;
 }
 
 a {
@@ -153,6 +154,7 @@ nav ul li a.active {
   padding: 25px;
   border-radius: 12px;
   box-shadow: 0 0 20px rgba(128, 0, 255, 0.4);
+  margin-bottom: 20px;
 }
 
 .resultado h2 {
@@ -239,6 +241,58 @@ nav ul li a.active {
 .meu-time {
   background: rgba(128, 0, 255, 0.2);
   font-weight: bold;
+}
+
+.jogadores-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.jogador-card {
+    max-width: 220px;
+    max-height: 400px;
+    background-color: #1c1c1c;
+    border: 2px solid #b300ff;
+    border-radius: 12px;
+    overflow: hidden;
+    text-align: center;
+    width: 220px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.jogador-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(179, 0, 255, 0.6);
+}
+
+.jogador-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 15px;
+}
+
+.jogador-card h3 {
+    color: #b300ff;
+    margin: 15px 0 5px 0;
+}
+
+.jogador-card p {
+    color: #ccc;
+    font-size: 0.95rem;
+    padding: Auto;
+}
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 

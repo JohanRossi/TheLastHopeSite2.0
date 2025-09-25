@@ -49,6 +49,26 @@
                     <span class="label">Competitivo</span>
                 </div>
             </div>
+            <section class="intro">
+    <h1>Compeonatos Disputados</h1>
+    </section>
+  <h3>2025</h3>
+  <section class="grid-competicoes">
+
+    <!-- Card exemplo -->
+    <a href="../../secaopartidas/ultimaspartidas/arenabreakoutp.php" class="card">
+      <img src="../imgcomp/ArenaBreakout.png" alt="Campeonato Arena Breakout">
+      <div class="card-content">
+        <h3>Arena Breakout Infinite</h3>
+        <h2>Ralisco Showndown</h2>
+        <p>Torneio amador promovido pelo streamer Ralisco em 2025, premiação de $2000.</p>
+      </div>
+    </a>
+
+  </section>
+        </div>
+    </div>
+</section>
         </div>
     </div>
 </section>

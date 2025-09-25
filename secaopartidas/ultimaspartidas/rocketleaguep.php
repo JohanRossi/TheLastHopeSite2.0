@@ -150,6 +150,24 @@
     <h2>🏆 Resultado Final</h2>
     <p>A equipe <strong>The Last Hope</strong> foi eliminada na fase <span class="posicao">Quartas de Final 8°</span> neste torneio.</p>
   </section>
+
+  <section>
+    <h1>JOGADORES</h1>
+    <div class="jogadores-container">
+        <div class="jogador-card">
+            <a href="../../secaojogadores/jogadores/pokas.php">
+                <img src="../../secaojogadores/img/pokas.jpg" alt="Pokas">
+                <h3>Pokas</h3>
+            </a>
+        </div>
+        <div class="jogador-card">
+            <a href="../../secaojogadores/jogadores/lightz.php">
+                <img src="../../secaojogadores/img/semfoto.png" alt="L1GHTZ">
+                <h3>L1GHTZ</h3>
+            </a>
+        </div>
+    </div>
+</section>
 </main>
 
 <?php include './includes/footer.php'; ?>

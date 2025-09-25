@@ -41,6 +41,11 @@
             <h3>Fusion</h3>
             <p>Função: Suporte</p>
         </a>
+        <a href="../../secaojogadores/jogadores/pokas.php" class="jogador">
+            <img src="../img/pokas.jpg" alt="Jogador 4">
+            <h3>Pokas</h3>
+            <p>Função: Suporte</p>
+        </a>
 
     </section>
 

@@ -124,6 +124,25 @@
                     <span class="label">Bronze I</span>
                 </div>
             </div>
+            <section class="intro">
+    <h1>Compeonatos Disputados</h1>
+    </section>
+  <h3>2025</h3>
+  <section class="grid-competicoes">
+
+    <a href="../../secaopartidas/ultimaspartidas/rocketleaguep.php" class="card">
+      <img src="../imgcomp/Rocket League.png" alt="Rocket League Cup">
+      <div class="card-content">
+        <h3>Rocket League</h3>
+        <h2>Torneio 2x2 Diamante Temporada 20</h2>
+        <p>Competição amistosa feita pela Psyonix em 2025 com jogadores possuindo o rank Diamante.</p>
+      </div>
+    </a>
+
+  </section>
+        </div>
+    </div>
+</section>
         </div>
     </div>
 </section>

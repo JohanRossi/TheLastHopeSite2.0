@@ -106,4 +106,17 @@
     </div>
 </section>
 
+<section>
+    <h1>EXTRAS</h1>
+    <div class="jogadores-container">
+        <div class="jogador-card">
+            <a href="jogadores/skind.php">
+                <img src="img/skind.jpg" alt="SniperPro">
+                <h3>Skind</h3>
+                <p>Gran Turismo 7 - Jogador Profissional</p>
+            </a>
+        </div>
+    </div>
+</section>
+
 <?php include './includes/footer.php'; ?>
