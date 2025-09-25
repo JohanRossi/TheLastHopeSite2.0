@@ -27,6 +27,7 @@
       <div class="card-content">
         <h3>Arena Breakout Infinite</h3>
         <h2>Ralisco Showndown</h2>
+        <h2>17/05/2025</h2>
         <p>Torneio amador promovido pelo streamer Ralisco em 2025, premiação de $2000.</p>
       </div>
     </a>
@@ -36,6 +37,7 @@
       <div class="card-content">
         <h3>Rocket League</h3>
         <h2>Torneio 2x2 Diamante Temporada 20</h2>
+        <h2>07/06/2025</h2>
         <p>Competição amistosa feita pela Psyonix em 2025 com jogadores possuindo o rank Diamante.</p>
       </div>
     </a>
