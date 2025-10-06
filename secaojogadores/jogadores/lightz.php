@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Lightz</h2>
             <p class="descricao">
-                Lightz "Eduardo Fudido" atualmente empatado com Vt "Vitor Hugo", é o proplayer mais habilidoso representando o time, com excelencia em Counter Strike 2, Rocket League e Arena Breakout. É dificil dizer qual esta melhor atualmente entre Vt e Lightz.
+                Eduardo "Lightz" Fudido atualmente empatado com Vt "Vitor Hugo", é o proplayer mais habilidoso representando o time, com excelencia em Counter Strike 2, Rocket League e Arena Breakout. É dificil dizer qual esta melhor atualmente entre Vt e Lightz.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Eduardo Fudido</li>

@@ -10,8 +10,7 @@
                 <h3>Pokas</h3>
                 <p>Rocket League</p>
                 <p>Counter Strike 2</p>
-                <p>Clash Of Clans</p>
-                <p>Clash Royale</p>
+                <p>Arena Breakout</p>
             </a>
         </div>
         <div class="jogador-card">
@@ -44,14 +43,6 @@
                 <p>Rocket League</p>
                 <p>Counter Strike 2</p>
                 <p>Arena Breakout</p>
-            </a>
-        </div>
-        <div class="jogador-card">
-            <a href="jogadores/beca.php">
-                <img src="img/beca.jpg" alt="Beca">
-                <h3>Beca</h3>
-                <p>Rainbow Six Siege</p>
-                <p>Clash Royale</p>
             </a>
         </div>
     </div>
@@ -114,6 +105,12 @@
                 <img src="img/skind.jpg" alt="SniperPro">
                 <h3>Skind</h3>
                 <p>Gran Turismo 7 - Jogador Profissional</p>
+            </a>
+        </div>
+         <div class="jogador-card">
+            <a href="jogadores/beca.php">
+                <img src="img/beca.jpg" alt="Beca">
+                <h3>Beca</h3>
             </a>
         </div>
     </div>

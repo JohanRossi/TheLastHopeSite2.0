@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>VT</h2>
             <p class="descricao">
-                Vt "Vitor Hugo" atualmente empatado com Lightz "Eduardo Fudido", é o proplayer mais habilidoso representando o time, com excelencia em Counter Strike 2 e Arena Breakout. É dificl dizer qual esta melhor atualmente entre Lightz e Vt. Vt tambem é Influencer fazendo streams na Twitch.
+                Vitor "VT" Hugo atualmente empatado com Lightz "Eduardo Fudido", é o proplayer mais habilidoso representando o time, com excelencia em Counter Strike 2 e Arena Breakout. É dificl dizer qual esta melhor atualmente entre Lightz e Vt. Vt tambem é Influencer fazendo streams na Twitch.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Vitor Hugo</li>

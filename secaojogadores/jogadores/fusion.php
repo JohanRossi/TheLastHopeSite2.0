@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Fusion</h2>
             <p class="descricao">
-                Fusion "Willian Mendez" um dos maiores e melhores jogadores da The Last Hope, atuando em Counter Strike 2 e Arena Breakout, demonstra desempenho e entrega em seus jogos. Fusion tambem é influencer na plataforma do Youtube postando conteudo de gameplays de jogos.
+                Willian "Fusion" Mentz é um dos maiores e melhores jogadores da The Last Hope, atuando em Counter Strike 2 e Arena Breakout, demonstra desempenho e entrega em seus jogos. Fusion tambem é influencer na plataforma do Youtube postando conteudo de gameplays de jogos.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Willian Mendez</li>

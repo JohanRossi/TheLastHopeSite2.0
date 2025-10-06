@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Skind</h2>
             <p class="descricao">
-                Skind "Richard Rossi" é um profissional de Automobilismo Virtual que compete principalmente no Gran Turismo 7. Já disputou diversos campeonatos e busca seu primeiro troféu para colocar na estante.
+                Richard "Skind" Rossi é um profissional de Automobilismo Virtual que compete principalmente no Gran Turismo 7. Já disputou diversos campeonatos e busca seu primeiro troféu para colocar na estante.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Richard Rossi</li>
@@ -53,7 +53,7 @@
             </div>
             <div class="stats">
                 <div class="stat-card">
-                    <span class="valor">7º</span>
+                    <span class="valor">6º</span>
                     <span class="label">13º Campeonato GT-500 - Grupo 3</span>
                 </div>
             </div>

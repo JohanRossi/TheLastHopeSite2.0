@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>PokasZideia</h2>
             <p class="descricao">
-                PokasZideia "Johan Rossi" é um dos fundadores da equipe The Last Hope Esports ao lado de Aleke "Alex Gomes" e Kizz "Kauan Moraes". É também jogador profissional de Rocket League e Counter-Strike 2, atuando em ambas modalidades pela equipe. Pokas também é o gerente dos canais Pokas Memorias, que é seu canal pessoal onde posta gameplays e videos sobre jogos. The Last Hope Esports, que é o canal de informação e mídia do time.
+                Johan "Pokas" Rossi é um dos fundadores da equipe The Last Hope Esports ao lado de Aleke "Alex Gomes" e Kizz "Kauan Moraes". É também jogador profissional de Rocket League e Counter-Strike 2, atuando em ambas modalidades pela equipe. Pokas também é o gerente dos canais Pokas Memorias, que é seu canal pessoal onde posta gameplays e videos sobre jogos. The Last Hope Esports, que é o canal de informação e mídia do time.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Johan Rossi</li>
@@ -26,7 +26,7 @@
             <ul class="lista-jogos">
                 <li><a href="../../secaotimes/times/rocketleague.php">Rocket League</a></li>
                 <li><a href="../../secaotimes/times/cs2.php">Counter Strike 2</a></li>
-                <li><a href="../../secaotimes/times/clashofclans.php">Clash of Clans</a></li>
+                <li><a href="../../secaotimes/times/arenabreakout.php">Arena Breakout</a></li>
             </ul>
 
             <h3>Ex-Jogador</h3>

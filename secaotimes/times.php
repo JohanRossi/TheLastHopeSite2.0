@@ -1,7 +1,7 @@
 <?php include('includes/header.php'); ?>
 <link rel="stylesheet" href="assets/css/style.css">
 
-
+<H1>Lines Up</H1>
 
 <section> 
   <div class="container">
@@ -18,12 +18,6 @@
           <p>Arena Breakout: Infinite</p>
         </a>
       </div>
-        <div class="botao-imagem">
-            <a href="times/freefire.php">
-            <img src="img/Freefire.png" alt="Time">
-            <p>Free Fire</p>
-            </a>
-    </div>
     <div class="botao-imagem">
         <a href="times/cs2.php">
           <img src="img/cs2.png" alt="Time">
@@ -31,7 +25,13 @@
         </a>
       </div>
   </div>
+    </div>
+</section>
 
+<H1>Ex - Lines Up</H1>
+
+<section> 
+  <div class="container">
     <div class="botoes">
       <div class="botao-imagem">
         <a href="times/clashofclans.php">
@@ -46,16 +46,9 @@
         </a>
       </div>
       <div class="botao-imagem">
-        <a href="#">
-          <img src="img/jogoindisponivel.png" alt="Time">
-          <p>...
-          </p>
-        </a>
-      </div>
-      <div class="botao-imagem">
-        <a href="#">
-          <img src="img/jogoindisponivel.png" alt="Time">
-          <p>...</p>
+        <a href="times/freefire.php">
+          <img src="img/Freefire.png" alt="Time">
+          <p>Free Fire</p>
         </a>
       </div>
     </div>

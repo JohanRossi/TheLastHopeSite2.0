@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Aleke</h2>
             <p class="descricao">
-                Aleke "Alex Gomes" é um dos fundadores da equipe The Last Hope Esports ao lado de Kizz "Kauan Moraes" e Pokas "Johan Rossi". É também jogador profissional de Rocket League.
+                Alex "Aleke" Gomes é um dos fundadores da equipe The Last Hope Esports ao lado de Kizz "Kauan Moraes" e Pokas "Johan Rossi". É também jogador profissional de Rocket League.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Alex Gomes</li>

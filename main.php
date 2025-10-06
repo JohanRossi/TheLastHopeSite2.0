@@ -6,7 +6,7 @@
         <?php
         $membros = [
             ['nome' => 'Rocket League Torneio Diamante T20', 'cargo' => 'The Last Hope 8°', 'img' => 'secaotimes/img/Rocket League.png', 'link' => 'secaopartidas/ultimaspartidas/rocketleaguep.php'],
-            ['nome' => 'Ralisco Showdown', 'cargo' => 'The Last Hope 37º', 'img' => 'secaotimes/img/ArenaBreakout.png', 'link' => 'secaopartidas/ultimaspartidas/arenabreakoutp.php'],
+            ['nome' => 'Ralisco Showdown', 'cargo' => 'The Last Hope 37º', 'img' => 'img/ArenaBreakout.png', 'link' => 'secaopartidas/ultimaspartidas/arenabreakoutp.php'],
         ];
         foreach($membros as $membro): ?>
         <a href="<?= $membro['link'] ?>" class="card">

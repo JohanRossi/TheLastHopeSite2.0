@@ -18,12 +18,7 @@
 
     <!-- Jogadores -->
     <section class="jogadores">
-        <h2>Jogadores</h2>
-        <a href="../../secaojogadores/jogadores/pokas.php" class="jogador">
-            <img src="../img/pokas2.png" alt="Jogador 1">
-            <h3>PokasZideia</h3>
-            <p>Arena 2</p>
-</a>        
+        <h2>Jogadores</h2>    
         <a href="../../secaojogadores/jogadores/beca.php" class="jogador">
             <img src="../img/beca.jpg" alt="Jogador 1">
             <h3>Beca</h3>

@@ -29,22 +29,18 @@
         <a href="../../secaojogadores/jogadores/vt.php" class="jogador">
             <img src="../img/vt2.png" alt="Jogador 1">
             <h3>VT</h3>
-            <p>Função: Killer</p>
         </a>
         <a href="../../secaojogadores/jogadores/lightz.php" class="jogador">
             <img src="../img/semfoto.png" alt="Jogador 2">
             <h3>L1GHTZ</h3>
-            <p>Função: Killer</p>
         </a>
         <a href="../../secaojogadores/jogadores/fusion.php" class="jogador">
             <img src="../img/fusion.png" alt="Jogador 3">
             <h3>Fusion</h3>
-            <p>Função: Suporte</p>
         </a>
         <a href="../../secaojogadores/jogadores/pokas.php" class="jogador">
             <img src="../img/pokas.jpg" alt="Jogador 4">
             <h3>Pokas</h3>
-            <p>Função: Suporte</p>
         </a>
 
     </section>
