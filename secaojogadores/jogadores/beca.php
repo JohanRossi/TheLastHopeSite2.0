@@ -8,7 +8,7 @@
         <div class="info-jogador">
             <h2>Beca</h2>
             <p class="descricao">
-                Rebeca "Beca" Pacheco é uma jogadora profissional de Rainbow Six Siege que compõe o time atuando como capitã. Beca também já fez parte da formação profissional de Free Fire ao lado de Pokas.
+                Rebeca "Beca" Pacheco é a noiva de Johan "Pokas" Rossi e sócia do Time. Beca também já fez parte da formação profissional de Free Fire ao lado de Pokas.
             </p>
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Rebeca Pacheco</li>
