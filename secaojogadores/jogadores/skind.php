@@ -13,7 +13,7 @@
             <ul class="detalhes">
                 <li><strong>Nome: </strong>Richard Rossi</li>
                 <li><strong>Altura:</strong> 1,82m</li>
-                <li><strong>Idade:</strong> 42 anos</li>
+                <li><strong>Idade:</strong> 43 anos</li>
                 <li><strong>Origem:</strong> Brasil, São Paulo</li>
             </ul>
 
@@ -34,7 +34,8 @@
 -->
             <h3>Times Atuados</h3>
             <ul class="lista-times">
-                <li>Rising Dragons Motorsports (2025)</li>
+                <li>Rising Dragons Motorsports (04/2025 - 10/2025)</li>
+                <li>Overcut Racing (10/2025 - Presente)</li>
             </ul>
             
             <h1>Estatísticas</h1>
@@ -53,8 +54,20 @@
             </div>
             <div class="stats">
                 <div class="stat-card">
-                    <span class="valor">6º</span>
+                    <span class="valor">9º</span>
                     <span class="label">13º Campeonato GT-500 - Grupo 3</span>
+                </div>
+            </div>
+            <div class="stats">
+                <div class="stat-card">
+                    <span class="valor">2º</span>
+                    <span class="label">34º Mundial ZGT - Categoria Extra 20</span>
+                </div>
+            </div>
+            <div class="stats">
+                <div class="stat-card">
+                    <span class="valor">7º</span>
+                    <span class="label">WEC Series</span>
                 </div>
             </div>
 
@@ -63,6 +76,15 @@
     </section>
   <h3>2025</h3>
   <section class="grid-competicoes">
+
+  <a href="https://equipezgt.blogspot.com/p/liga-zgt-7-copa-porsche-gran-turismo-7.html" class="card">
+      <img src="../imgcomp/ligazgttemporada34.png" alt="Gran Turismo 7 Cup">
+      <div class="card-content">
+        <h3>Gran Turismo 7</h3>
+        <h2>34º Mundial ZGT - Categoria 20</h2>
+        <p>Competição de automobilismo virtual realizada em 2025, reunindo os melhores pilotos amadores do Gran Turismo 7.</p>
+      </div>
+    </a>
 
   <a href="https://equipezgt.blogspot.com/p/liga-zgt-13-campeonato-gt-500-tabela-de.html" class="card">
       <img src="../imgcomp/gt50013.png" alt="Rocket League Cup">
